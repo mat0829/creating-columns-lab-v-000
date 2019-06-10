@@ -58,4 +58,12 @@ img:hover {
   height: 100%;
 }
 
+.medium {
+  width: 200%;
+  height: 200%;
+}
 
+.large {
+  width: 300%;
+  height: 300%;
+}
